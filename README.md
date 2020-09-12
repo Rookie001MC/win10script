@@ -1,4 +1,5 @@
 # win10script
+## This repo was originally by ChrisTitusTech: https://www.youtube.com/c/ChrisTitusTech
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
 
 ## My Additions
