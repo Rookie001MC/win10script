@@ -2,6 +2,15 @@
 ## This repo was originally by ChrisTitusTech: https://www.youtube.com/c/ChrisTitusTech
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
 
+## Installation
+Before installing the script, it is recommended to read the scripts thoroughly and tweak the scripts to your own liking.
+Steps:
+* Clone the repo
+* Open notepad, navigate to your cloned repo, then open win10debloat.ps1, and tweak it to your liking.
+* Close notepad, open Windows PowerShell, and then navigate to your cloned repo.
+* Type: > ./win10debloat.ps1 (hit tab to autofill)
+* Sit back and wait.
+
 ## My Additions
 
 - Dark Mode
